@@ -1,3 +1,4 @@
 # hello_world
 praktek github pemula
-kontribusi dari azer
+# about me
+nama saya azer
