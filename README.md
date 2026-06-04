@@ -1,4 +1,4 @@
 # hello_world
-praktek github pemula
+praktek github pemula saya
 # about me
-nama saya azer
+nama saya azer airtas
